@@ -1,0 +1,9 @@
+# case-insensitive
+domain_name: "example.com"
+
+# %1s is the domain_name set above
+# %2s is the address the player used to connect with (e.g. 127.0.0.1, 142.12.1.99, example.com, mc.coolserver.net)
+
+# Set to empty to leave the motd unchanged
+motd_text: "Please connect using domain name: %1s"
+kick_text: "Please connect using domain name: %1s\n(you connected using: %2s)"

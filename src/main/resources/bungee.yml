@@ -1,0 +1,4 @@
+name: DnsOnlyJoin
+version: ${project.version}
+main: pl.mibac.dnsonlyjoin.DnsOnlyJoin
+author: mibac138
